@@ -66,9 +66,3 @@ Included:
 - Promo Strategy vs Retention & Session Success
 - Region-wise Engagement Patterns
 
-## Author
-
-**Divye Bajaj**  
-NSUT’26  
-[LinkedIn](https://linkedin.com/in/divyebajaj)  
-[GitHub Project](https://github.com/DivyeB/User-Login-Behavior-OTT)
