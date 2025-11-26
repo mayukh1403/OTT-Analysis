@@ -51,7 +51,7 @@ Dataset links:
 | Signup Cohort Retention | [Query](Queries/Query12.sql) |
 | Viewer Churn by Country | [Query](Queries/Query17.sql) |
 
-Explore all queries [here](https://github.com/DivyeB/User-Login-Behavior-OTT/tree/main/Queries)
+Explore all queries [here](https://github.com/mayukh1403/OTT-Analysis/tree/main/Queries)
 
 ## Dashboard & Visualizations
 
