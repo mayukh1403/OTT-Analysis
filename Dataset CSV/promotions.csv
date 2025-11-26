@@ -1,0 +1,988 @@
+promo_id,viewer_id,promo_type,promo_date,discount_code_used
+1,159,Discount,2024-11-10,False
+2,427,Loyalty Reward,2024-04-26,False
+3,56,Free Trial,2025-04-12,True
+4,134,Discount,2025-04-30,False
+5,134,Loyalty Reward,2025-03-06,True
+6,142,Referral,2023-09-12,True
+7,142,Referral,2024-05-03,False
+8,140,Discount,2023-11-18,False
+9,140,Referral,2024-08-12,True
+10,957,Free Trial,2025-01-23,False
+11,957,Cashback,2024-10-20,False
+12,153,Discount,2024-06-18,False
+13,153,Discount,2023-10-17,True
+14,165,Discount,2024-03-19,True
+15,435,Loyalty Reward,2023-12-05,False
+16,435,Free Trial,2025-04-16,False
+17,26,Cashback,2025-05-06,True
+18,708,Free Trial,2025-01-14,True
+19,708,Free Trial,2024-05-07,False
+20,222,Free Trial,2024-01-05,False
+21,477,Referral,2024-12-14,True
+22,477,Discount,2023-07-12,False
+23,207,Referral,2024-02-02,True
+24,207,Cashback,2025-01-18,False
+25,362,Cashback,2025-04-23,False
+26,860,Cashback,2025-06-16,False
+27,860,Free Trial,2024-06-19,True
+28,779,Free Trial,2024-11-04,True
+29,779,Loyalty Reward,2024-04-12,False
+30,88,Discount,2023-11-18,False
+31,88,Referral,2023-08-11,False
+32,326,Cashback,2024-01-19,False
+33,466,Free Trial,2024-03-21,True
+34,466,Loyalty Reward,2023-09-17,True
+35,172,Loyalty Reward,2024-09-27,True
+36,172,Cashback,2024-01-14,True
+37,604,Cashback,2024-06-23,True
+38,604,Cashback,2025-05-06,False
+39,261,Referral,2025-02-14,False
+40,261,Discount,2023-08-06,True
+41,297,Loyalty Reward,2024-01-19,False
+42,297,Free Trial,2024-03-19,False
+43,157,Loyalty Reward,2024-08-06,True
+44,432,Referral,2025-01-24,False
+45,372,Discount,2024-03-11,False
+46,682,Free Trial,2024-09-24,True
+47,459,Cashback,2024-02-27,True
+48,459,Discount,2025-02-23,False
+49,745,Loyalty Reward,2025-05-02,True
+50,745,Loyalty Reward,2025-02-01,False
+51,50,Free Trial,2025-05-27,False
+52,22,Loyalty Reward,2024-05-01,True
+53,636,Cashback,2024-08-08,True
+54,825,Cashback,2025-06-04,False
+55,981,Cashback,2023-11-30,False
+56,198,Cashback,2024-03-25,True
+57,198,Referral,2025-06-05,True
+58,109,Discount,2024-10-20,True
+59,13,Discount,2024-11-19,True
+60,13,Free Trial,2025-03-17,False
+61,521,Loyalty Reward,2024-04-25,False
+62,521,Referral,2024-07-03,False
+63,861,Referral,2024-08-09,False
+64,918,Referral,2025-01-18,True
+65,918,Referral,2024-03-13,True
+66,439,Cashback,2023-07-02,False
+67,439,Discount,2025-06-18,False
+68,398,Referral,2024-12-21,False
+69,398,Cashback,2023-09-02,True
+70,332,Loyalty Reward,2024-06-28,True
+71,332,Cashback,2025-01-01,False
+72,798,Free Trial,2023-08-03,True
+73,853,Loyalty Reward,2023-11-20,True
+74,853,Referral,2024-06-07,True
+75,330,Loyalty Reward,2024-03-23,False
+76,330,Free Trial,2024-02-22,False
+77,857,Loyalty Reward,2024-06-05,False
+78,764,Referral,2024-02-16,True
+79,31,Cashback,2023-10-20,True
+80,346,Loyalty Reward,2024-09-26,True
+81,346,Free Trial,2024-08-23,True
+82,585,Cashback,2024-08-26,True
+83,763,Referral,2023-12-07,True
+84,763,Discount,2024-08-06,True
+85,740,Free Trial,2025-04-05,False
+86,737,Cashback,2025-01-16,False
+87,737,Cashback,2024-09-19,False
+88,958,Referral,2025-06-01,False
+89,847,Loyalty Reward,2025-03-24,False
+90,504,Cashback,2024-10-27,False
+91,504,Cashback,2024-04-29,False
+92,770,Loyalty Reward,2024-07-13,True
+93,320,Referral,2025-05-25,True
+94,43,Loyalty Reward,2025-04-02,False
+95,43,Referral,2025-06-14,True
+96,746,Free Trial,2024-07-30,False
+97,645,Free Trial,2024-10-11,False
+98,961,Discount,2023-07-14,False
+99,961,Loyalty Reward,2023-08-30,True
+100,518,Loyalty Reward,2024-03-22,True
+101,518,Loyalty Reward,2025-01-24,False
+102,519,Discount,2024-08-03,True
+103,811,Loyalty Reward,2024-09-05,True
+104,407,Loyalty Reward,2023-09-02,False
+105,407,Loyalty Reward,2024-03-23,True
+106,612,Free Trial,2023-11-23,True
+107,612,Loyalty Reward,2023-07-28,False
+108,33,Cashback,2024-04-18,False
+109,117,Discount,2023-08-01,True
+110,117,Discount,2024-09-15,False
+111,174,Cashback,2023-11-12,False
+112,551,Referral,2024-11-03,False
+113,895,Discount,2023-12-17,False
+114,895,Free Trial,2023-12-02,True
+115,65,Referral,2024-08-17,False
+116,65,Free Trial,2023-12-21,False
+117,704,Cashback,2024-08-29,False
+118,704,Cashback,2023-11-09,True
+119,631,Loyalty Reward,2023-06-28,True
+120,631,Referral,2024-10-28,True
+121,178,Discount,2023-12-16,False
+122,635,Referral,2024-08-09,True
+123,635,Cashback,2024-05-19,False
+124,974,Loyalty Reward,2023-10-28,True
+125,642,Discount,2024-10-17,False
+126,462,Referral,2025-05-22,True
+127,474,Discount,2024-08-09,False
+128,201,Loyalty Reward,2024-09-18,False
+129,202,Discount,2024-07-17,False
+130,202,Referral,2024-01-20,True
+131,76,Free Trial,2025-05-13,True
+132,76,Cashback,2024-07-10,False
+133,597,Cashback,2024-12-28,True
+134,537,Discount,2024-04-23,True
+135,537,Free Trial,2024-05-23,False
+136,164,Free Trial,2024-04-17,True
+137,164,Free Trial,2024-12-24,True
+138,348,Referral,2024-01-12,True
+139,795,Referral,2025-03-04,False
+140,64,Discount,2023-10-03,True
+141,64,Loyalty Reward,2023-07-02,True
+142,494,Discount,2023-12-14,False
+143,71,Referral,2024-07-05,False
+144,71,Free Trial,2023-09-02,False
+145,718,Discount,2024-01-27,False
+146,718,Cashback,2024-12-21,False
+147,6,Free Trial,2024-04-17,True
+148,697,Discount,2024-01-26,True
+149,697,Cashback,2024-01-16,True
+150,571,Discount,2024-12-10,False
+151,571,Discount,2024-04-23,False
+152,573,Referral,2024-01-13,True
+153,956,Loyalty Reward,2023-07-18,True
+154,988,Free Trial,2024-05-30,True
+155,988,Free Trial,2024-08-08,True
+156,281,Free Trial,2025-01-07,False
+157,434,Free Trial,2025-01-06,True
+158,434,Referral,2025-01-03,True
+159,368,Cashback,2024-09-07,True
+160,375,Loyalty Reward,2024-05-09,True
+161,864,Free Trial,2023-12-19,False
+162,864,Cashback,2024-09-03,True
+163,473,Discount,2024-10-15,False
+164,473,Cashback,2024-07-09,True
+165,219,Free Trial,2024-11-07,False
+166,219,Free Trial,2024-08-01,False
+167,127,Referral,2024-05-16,True
+168,951,Free Trial,2025-03-12,False
+169,951,Discount,2024-01-12,True
+170,748,Referral,2024-08-14,True
+171,755,Cashback,2024-02-09,False
+172,647,Cashback,2024-07-15,False
+173,647,Discount,2024-10-24,True
+174,111,Free Trial,2024-02-05,False
+175,111,Free Trial,2025-05-21,False
+176,486,Free Trial,2024-04-02,False
+177,852,Discount,2024-09-14,True
+178,852,Discount,2025-06-14,False
+179,888,Loyalty Reward,2024-08-15,True
+180,77,Free Trial,2024-11-21,False
+181,587,Free Trial,2023-12-26,True
+182,218,Free Trial,2025-02-08,True
+183,218,Discount,2024-02-23,True
+184,242,Loyalty Reward,2024-05-11,True
+185,584,Loyalty Reward,2024-02-09,False
+186,324,Discount,2023-10-10,True
+187,324,Free Trial,2024-09-18,True
+188,594,Discount,2023-07-04,True
+189,594,Cashback,2023-10-16,False
+190,452,Cashback,2024-03-29,False
+191,452,Discount,2025-01-27,False
+192,253,Loyalty Reward,2025-01-01,False
+193,203,Discount,2025-03-07,False
+194,203,Discount,2025-05-13,True
+195,215,Referral,2025-02-04,True
+196,448,Discount,2024-01-09,False
+197,823,Cashback,2025-05-25,False
+198,648,Discount,2024-04-06,True
+199,648,Free Trial,2024-04-27,True
+200,689,Discount,2025-06-24,False
+201,742,Loyalty Reward,2024-07-10,False
+202,289,Cashback,2025-05-27,True
+203,289,Referral,2023-09-23,True
+204,965,Loyalty Reward,2025-06-17,True
+205,14,Cashback,2023-11-07,False
+206,14,Referral,2023-10-06,True
+207,713,Cashback,2025-01-18,True
+208,713,Free Trial,2023-10-11,False
+209,2,Loyalty Reward,2024-10-25,True
+210,2,Free Trial,2024-10-14,False
+211,553,Free Trial,2025-06-08,True
+212,553,Free Trial,2024-10-10,True
+213,411,Discount,2024-01-07,False
+214,792,Cashback,2024-08-09,False
+215,205,Cashback,2023-10-05,False
+216,734,Cashback,2025-04-17,True
+217,217,Loyalty Reward,2023-12-09,False
+218,217,Cashback,2023-11-25,True
+219,221,Discount,2024-06-16,True
+220,53,Loyalty Reward,2024-08-07,True
+221,53,Cashback,2024-01-10,True
+222,810,Free Trial,2025-06-13,False
+223,358,Referral,2024-11-01,True
+224,259,Free Trial,2023-08-13,True
+225,259,Cashback,2024-07-07,True
+226,621,Free Trial,2024-06-20,False
+227,429,Referral,2024-02-01,False
+228,533,Referral,2025-04-02,True
+229,533,Free Trial,2024-07-11,True
+230,515,Cashback,2024-02-20,True
+231,705,Loyalty Reward,2024-06-27,False
+232,559,Free Trial,2023-08-03,True
+233,592,Referral,2024-01-07,False
+234,592,Loyalty Reward,2024-02-23,True
+235,118,Cashback,2024-08-26,False
+236,118,Referral,2024-11-09,True
+237,966,Discount,2025-04-24,False
+238,302,Discount,2024-02-19,False
+239,418,Referral,2025-01-13,True
+240,599,Free Trial,2024-10-23,True
+241,599,Discount,2024-10-15,True
+242,717,Discount,2024-10-25,True
+243,146,Free Trial,2025-01-25,True
+244,146,Discount,2024-03-24,False
+245,706,Discount,2025-02-01,True
+246,706,Cashback,2024-06-28,True
+247,60,Free Trial,2024-08-10,False
+248,626,Referral,2023-06-28,False
+249,626,Discount,2025-04-05,True
+250,46,Discount,2024-02-28,True
+251,46,Free Trial,2025-03-09,True
+252,939,Discount,2023-10-01,True
+253,939,Discount,2024-04-11,False
+254,601,Loyalty Reward,2024-12-25,False
+255,601,Cashback,2024-10-15,False
+256,144,Cashback,2024-01-03,True
+257,144,Cashback,2023-12-30,False
+258,856,Referral,2024-09-08,False
+259,171,Loyalty Reward,2023-12-01,False
+260,171,Discount,2024-04-24,False
+261,285,Referral,2023-12-07,False
+262,285,Cashback,2024-06-02,True
+263,443,Cashback,2024-03-21,True
+264,443,Cashback,2023-09-13,False
+265,38,Discount,2025-05-30,False
+266,38,Loyalty Reward,2024-03-12,False
+267,189,Discount,2025-04-02,True
+268,189,Loyalty Reward,2025-01-31,False
+269,866,Free Trial,2023-11-03,False
+270,768,Discount,2023-08-10,True
+271,294,Referral,2023-10-15,True
+272,294,Referral,2025-06-12,False
+273,803,Free Trial,2024-07-03,True
+274,313,Cashback,2024-05-15,True
+275,313,Loyalty Reward,2024-05-25,False
+276,787,Free Trial,2023-09-07,False
+277,393,Free Trial,2024-03-22,False
+278,623,Free Trial,2023-08-03,False
+279,623,Referral,2024-02-20,True
+280,859,Referral,2024-09-30,True
+281,859,Cashback,2023-09-02,False
+282,938,Discount,2025-06-05,True
+283,938,Cashback,2024-03-07,False
+284,700,Free Trial,2025-05-17,True
+285,700,Cashback,2023-07-12,False
+286,364,Referral,2024-03-01,True
+287,548,Loyalty Reward,2024-03-26,False
+288,548,Free Trial,2023-09-09,False
+289,846,Referral,2023-12-07,True
+290,910,Discount,2025-03-30,True
+291,910,Loyalty Reward,2024-07-31,True
+292,340,Cashback,2023-08-02,False
+293,340,Discount,2023-08-30,True
+294,869,Referral,2024-01-05,True
+295,513,Loyalty Reward,2023-11-11,True
+296,513,Cashback,2023-11-09,True
+297,536,Loyalty Reward,2023-11-09,True
+298,536,Cashback,2024-08-11,True
+299,579,Cashback,2025-03-22,True
+300,532,Discount,2024-06-08,True
+301,319,Cashback,2024-05-01,False
+302,319,Loyalty Reward,2024-11-27,True
+303,308,Loyalty Reward,2023-11-23,False
+304,747,Discount,2025-03-12,True
+305,747,Cashback,2024-10-29,False
+306,590,Referral,2024-11-13,False
+307,11,Cashback,2023-07-31,True
+308,11,Discount,2024-01-17,False
+309,611,Discount,2023-11-25,True
+310,341,Free Trial,2024-07-31,False
+311,818,Cashback,2023-06-28,True
+312,91,Free Trial,2023-07-26,False
+313,91,Cashback,2025-06-13,False
+314,80,Cashback,2025-02-01,True
+315,80,Loyalty Reward,2024-09-19,True
+316,42,Referral,2023-08-22,False
+317,42,Loyalty Reward,2025-02-17,True
+318,639,Cashback,2023-07-28,False
+319,163,Free Trial,2024-03-18,True
+320,566,Loyalty Reward,2023-09-27,False
+321,96,Free Trial,2023-08-25,False
+322,460,Referral,2024-01-08,True
+323,460,Loyalty Reward,2024-05-27,False
+324,617,Cashback,2025-03-01,False
+325,10,Loyalty Reward,2025-01-16,True
+326,351,Discount,2025-04-28,True
+327,351,Discount,2024-08-24,False
+328,34,Referral,2025-01-07,True
+329,34,Free Trial,2024-03-17,True
+330,703,Cashback,2024-09-06,True
+331,943,Referral,2024-02-25,False
+332,720,Discount,2023-10-02,False
+333,197,Referral,2023-07-10,False
+334,197,Free Trial,2023-11-05,False
+335,503,Free Trial,2024-09-19,False
+336,317,Cashback,2024-05-05,False
+337,609,Discount,2025-05-26,False
+338,254,Cashback,2025-02-02,True
+339,254,Referral,2023-12-01,False
+340,691,Discount,2025-04-17,False
+341,63,Loyalty Reward,2024-06-29,False
+342,63,Free Trial,2023-11-15,False
+343,998,Loyalty Reward,2024-02-10,True
+344,998,Free Trial,2025-03-22,False
+345,472,Cashback,2024-09-27,True
+346,472,Discount,2024-06-11,True
+347,586,Referral,2025-04-12,False
+348,586,Referral,2024-12-03,False
+349,298,Cashback,2023-09-25,False
+350,298,Discount,2023-07-26,True
+351,241,Cashback,2023-08-22,True
+352,893,Free Trial,2024-09-04,False
+353,615,Discount,2023-10-16,False
+354,615,Cashback,2025-04-07,True
+355,399,Discount,2023-10-07,False
+356,399,Discount,2024-04-15,False
+357,908,Loyalty Reward,2024-08-29,False
+358,467,Loyalty Reward,2024-01-23,False
+359,467,Free Trial,2025-02-03,True
+360,512,Loyalty Reward,2023-11-21,True
+361,408,Free Trial,2024-05-28,True
+362,493,Discount,2024-01-19,False
+363,493,Free Trial,2024-05-18,False
+364,277,Loyalty Reward,2025-06-02,True
+365,839,Referral,2023-10-18,False
+366,883,Loyalty Reward,2024-01-20,False
+367,870,Loyalty Reward,2023-08-26,True
+368,870,Referral,2023-09-27,False
+369,3,Cashback,2024-01-19,True
+370,210,Cashback,2025-01-31,True
+371,935,Discount,2023-11-05,True
+372,385,Referral,2024-05-02,False
+373,385,Referral,2024-03-09,False
+374,517,Free Trial,2025-03-13,False
+375,517,Discount,2023-11-02,False
+376,973,Cashback,2023-11-21,False
+377,973,Free Trial,2023-08-29,False
+378,191,Free Trial,2024-04-24,True
+379,191,Loyalty Reward,2024-03-13,True
+380,522,Free Trial,2024-07-03,True
+381,192,Cashback,2024-04-27,False
+382,955,Referral,2023-10-11,True
+383,49,Referral,2024-05-23,True
+384,538,Cashback,2024-02-24,False
+385,538,Cashback,2023-10-14,True
+386,30,Free Trial,2024-05-25,True
+387,30,Discount,2023-10-06,False
+388,347,Free Trial,2023-08-05,True
+389,347,Discount,2023-12-20,False
+390,229,Free Trial,2024-09-28,False
+391,528,Discount,2024-06-06,False
+392,528,Referral,2023-08-07,True
+393,664,Loyalty Reward,2024-05-24,True
+394,664,Discount,2024-02-11,False
+395,969,Cashback,2023-07-02,False
+396,622,Loyalty Reward,2025-04-07,False
+397,228,Free Trial,2024-03-13,True
+398,872,Referral,2024-12-25,True
+399,872,Loyalty Reward,2025-03-03,True
+400,971,Referral,2024-11-08,True
+401,75,Discount,2024-05-11,False
+402,75,Free Trial,2024-06-17,False
+403,85,Cashback,2024-05-03,False
+404,85,Free Trial,2023-06-29,True
+405,92,Loyalty Reward,2024-05-29,True
+406,871,Discount,2023-08-21,False
+407,871,Cashback,2023-08-17,False
+408,74,Referral,2023-11-03,False
+409,74,Cashback,2024-11-18,False
+410,580,Referral,2023-09-01,True
+411,463,Referral,2024-04-02,True
+412,463,Loyalty Reward,2025-03-23,False
+413,269,Cashback,2024-09-06,False
+414,269,Referral,2025-02-08,False
+415,595,Free Trial,2025-06-06,True
+416,595,Loyalty Reward,2024-03-19,True
+417,937,Cashback,2025-01-28,True
+418,827,Free Trial,2024-08-19,True
+419,827,Free Trial,2023-12-11,True
+420,671,Free Trial,2024-11-16,True
+421,921,Cashback,2023-12-13,True
+422,707,Discount,2024-09-29,True
+423,707,Loyalty Reward,2024-03-23,False
+424,826,Loyalty Reward,2024-07-18,False
+425,273,Referral,2024-12-14,True
+426,273,Free Trial,2024-11-20,True
+427,765,Free Trial,2025-06-03,False
+428,927,Free Trial,2025-03-24,True
+429,716,Loyalty Reward,2024-04-27,True
+430,716,Discount,2024-06-06,True
+431,125,Referral,2023-08-06,True
+432,206,Loyalty Reward,2024-05-15,False
+433,206,Discount,2024-01-29,False
+434,51,Referral,2023-10-11,True
+435,51,Cashback,2023-09-14,False
+436,651,Free Trial,2024-07-16,False
+437,651,Free Trial,2023-07-20,True
+438,901,Discount,2024-01-11,True
+439,901,Referral,2024-04-11,False
+440,666,Referral,2024-01-06,True
+441,666,Loyalty Reward,2024-12-26,False
+442,769,Referral,2025-01-20,False
+443,724,Referral,2024-09-28,False
+444,724,Loyalty Reward,2024-11-08,True
+445,845,Cashback,2024-12-18,True
+446,845,Discount,2024-08-19,True
+447,578,Loyalty Reward,2023-10-09,False
+448,578,Cashback,2023-07-22,False
+449,35,Cashback,2023-08-16,True
+450,35,Free Trial,2025-01-13,True
+451,767,Referral,2025-04-19,True
+452,238,Cashback,2024-02-18,False
+453,954,Loyalty Reward,2024-02-04,False
+454,137,Discount,2024-06-29,True
+455,781,Loyalty Reward,2025-01-16,True
+456,781,Cashback,2023-09-07,False
+457,834,Referral,2024-09-12,True
+458,834,Discount,2023-11-13,True
+459,355,Loyalty Reward,2024-04-08,True
+460,355,Cashback,2024-03-19,False
+461,67,Loyalty Reward,2023-12-25,False
+462,67,Cashback,2025-06-12,True
+463,370,Free Trial,2023-11-22,True
+464,370,Loyalty Reward,2023-12-18,False
+465,295,Free Trial,2024-02-12,False
+466,295,Loyalty Reward,2024-11-26,True
+467,892,Loyalty Reward,2024-03-22,False
+468,892,Free Trial,2024-02-03,False
+469,929,Discount,2024-06-01,False
+470,929,Referral,2025-03-24,True
+471,777,Referral,2023-06-29,False
+472,777,Loyalty Reward,2025-02-15,True
+473,476,Cashback,2025-04-14,False
+474,476,Cashback,2023-09-22,True
+475,778,Free Trial,2025-01-10,True
+476,806,Discount,2024-01-05,True
+477,315,Loyalty Reward,2024-05-21,False
+478,315,Cashback,2024-05-20,False
+479,360,Loyalty Reward,2024-10-06,False
+480,360,Cashback,2023-10-12,False
+481,568,Free Trial,2025-01-21,True
+482,499,Loyalty Reward,2023-07-04,True
+483,499,Discount,2025-06-02,True
+484,455,Loyalty Reward,2024-01-10,False
+485,455,Cashback,2023-08-10,True
+486,104,Discount,2025-02-14,True
+487,104,Free Trial,2024-03-02,True
+488,18,Loyalty Reward,2024-11-19,True
+489,18,Cashback,2024-09-23,False
+490,114,Free Trial,2024-08-03,True
+491,114,Loyalty Reward,2024-11-05,False
+492,161,Cashback,2025-02-04,True
+493,181,Cashback,2025-03-18,False
+494,181,Cashback,2025-04-29,True
+495,322,Loyalty Reward,2024-09-27,True
+496,903,Cashback,2024-08-13,False
+497,903,Cashback,2024-06-05,False
+498,694,Loyalty Reward,2024-05-20,True
+499,694,Loyalty Reward,2025-03-02,False
+500,960,Discount,2024-07-25,True
+501,960,Free Trial,2024-03-31,True
+502,416,Cashback,2023-09-14,True
+503,850,Referral,2024-03-29,True
+504,306,Discount,2024-05-16,True
+505,306,Cashback,2023-07-23,True
+506,260,Cashback,2024-09-10,False
+507,761,Discount,2024-06-21,True
+508,497,Free Trial,2024-12-18,True
+509,867,Cashback,2025-06-03,True
+510,867,Loyalty Reward,2025-01-12,True
+511,828,Discount,2023-12-18,False
+512,889,Referral,2025-01-05,False
+513,673,Cashback,2023-08-16,False
+514,934,Free Trial,2023-08-07,False
+515,934,Discount,2024-03-06,False
+516,40,Referral,2024-03-18,False
+517,801,Loyalty Reward,2025-02-19,False
+518,833,Discount,2023-08-27,False
+519,833,Discount,2024-03-29,False
+520,756,Referral,2025-01-09,True
+521,756,Loyalty Reward,2023-11-12,True
+522,431,Cashback,2024-12-02,False
+523,431,Referral,2023-08-19,True
+524,47,Loyalty Reward,2024-08-30,True
+525,552,Free Trial,2025-06-23,True
+526,552,Discount,2024-03-27,True
+527,162,Cashback,2024-10-09,False
+528,162,Cashback,2023-07-17,True
+529,783,Loyalty Reward,2024-09-09,True
+530,729,Cashback,2025-02-12,True
+531,729,Free Trial,2024-12-06,True
+532,643,Referral,2023-07-28,True
+533,799,Free Trial,2024-03-09,False
+534,799,Loyalty Reward,2024-12-02,False
+535,402,Cashback,2024-09-29,False
+536,402,Referral,2025-05-05,True
+537,603,Discount,2025-03-24,True
+538,147,Loyalty Reward,2025-02-21,False
+539,820,Discount,2025-06-11,False
+540,344,Discount,2024-02-26,False
+541,776,Cashback,2023-11-22,False
+542,776,Referral,2025-03-02,False
+543,176,Loyalty Reward,2024-06-02,False
+544,176,Loyalty Reward,2024-10-24,False
+545,329,Discount,2025-03-11,False
+546,491,Free Trial,2025-06-20,False
+547,491,Discount,2025-03-20,False
+548,679,Loyalty Reward,2023-07-01,False
+549,816,Loyalty Reward,2024-01-03,True
+550,816,Discount,2023-11-05,False
+551,425,Loyalty Reward,2023-07-06,False
+552,840,Free Trial,2024-07-24,True
+553,880,Free Trial,2024-10-12,True
+554,628,Free Trial,2024-05-02,True
+555,807,Cashback,2024-10-16,False
+556,807,Cashback,2024-12-05,False
+557,268,Cashback,2024-05-21,False
+558,141,Referral,2024-08-24,True
+559,838,Cashback,2025-02-14,False
+560,838,Loyalty Reward,2024-04-22,False
+561,129,Referral,2025-01-02,False
+562,129,Loyalty Reward,2025-06-11,False
+563,214,Cashback,2025-02-22,False
+564,23,Free Trial,2024-10-19,False
+565,23,Free Trial,2025-01-22,False
+566,256,Cashback,2025-02-14,True
+567,256,Cashback,2023-08-13,False
+568,145,Referral,2024-08-10,True
+569,754,Discount,2024-07-05,True
+570,378,Discount,2025-03-20,False
+571,557,Free Trial,2024-12-18,True
+572,557,Loyalty Reward,2023-07-16,True
+573,126,Loyalty Reward,2024-09-12,False
+574,126,Free Trial,2025-05-13,True
+575,672,Loyalty Reward,2023-12-05,False
+576,672,Cashback,2025-02-28,False
+577,212,Cashback,2024-08-29,False
+578,193,Referral,2023-08-15,True
+579,17,Loyalty Reward,2024-01-16,True
+580,17,Referral,2024-08-17,True
+581,401,Referral,2025-02-11,False
+582,392,Free Trial,2023-08-15,False
+583,392,Discount,2024-06-02,True
+584,654,Free Trial,2023-08-01,True
+585,654,Free Trial,2023-11-17,False
+586,727,Discount,2023-10-04,False
+587,583,Cashback,2024-11-12,True
+588,730,Discount,2024-10-26,True
+589,730,Cashback,2024-07-16,True
+590,108,Loyalty Reward,2024-03-04,False
+591,240,Loyalty Reward,2025-03-04,True
+592,331,Discount,2024-10-27,True
+593,752,Cashback,2024-11-12,True
+594,822,Discount,2024-05-29,False
+595,72,Discount,2025-02-17,False
+596,680,Loyalty Reward,2025-03-10,True
+597,680,Cashback,2025-01-20,False
+598,272,Discount,2023-08-27,True
+599,959,Loyalty Reward,2024-10-29,False
+600,959,Free Trial,2024-05-31,False
+601,194,Free Trial,2024-11-17,False
+602,194,Discount,2024-07-01,False
+603,312,Cashback,2025-03-31,False
+604,312,Loyalty Reward,2023-09-08,True
+605,433,Loyalty Reward,2024-08-11,False
+606,550,Referral,2024-05-03,True
+607,550,Loyalty Reward,2024-10-18,False
+608,975,Cashback,2024-12-15,True
+609,780,Free Trial,2025-04-21,False
+610,780,Loyalty Reward,2024-02-05,True
+611,882,Free Trial,2023-07-17,False
+612,882,Referral,2024-06-19,True
+613,216,Referral,2023-11-21,False
+614,216,Free Trial,2024-02-14,False
+615,928,Cashback,2024-09-03,False
+616,450,Cashback,2024-04-07,True
+617,450,Referral,2025-01-30,False
+618,113,Cashback,2024-11-09,False
+619,113,Loyalty Reward,2025-06-20,False
+620,365,Discount,2025-02-13,False
+621,274,Cashback,2023-10-14,True
+622,274,Referral,2024-03-11,False
+623,342,Loyalty Reward,2025-02-12,True
+624,342,Referral,2025-03-05,True
+625,232,Discount,2025-06-05,True
+626,232,Discount,2024-03-22,True
+627,323,Free Trial,2023-12-19,True
+628,323,Cashback,2025-05-04,False
+629,275,Free Trial,2025-02-25,True
+630,275,Referral,2025-05-09,False
+631,225,Cashback,2024-10-23,True
+632,225,Referral,2025-01-29,True
+633,102,Cashback,2024-12-12,True
+634,483,Referral,2025-01-18,False
+635,483,Cashback,2024-09-14,False
+636,616,Discount,2024-03-10,True
+637,791,Free Trial,2023-08-01,False
+638,158,Referral,2024-03-13,False
+639,29,Cashback,2024-05-02,True
+640,510,Cashback,2024-12-24,True
+641,510,Cashback,2025-03-30,True
+642,543,Loyalty Reward,2024-12-06,False
+643,543,Referral,2024-04-26,True
+644,130,Discount,2024-06-06,True
+645,830,Referral,2024-03-18,True
+646,728,Free Trial,2023-09-23,False
+647,728,Cashback,2023-09-30,True
+648,919,Referral,2023-09-17,True
+649,919,Free Trial,2024-12-09,False
+650,487,Free Trial,2024-01-04,False
+651,487,Discount,2024-05-20,True
+652,739,Cashback,2025-06-12,False
+653,945,Referral,2024-06-25,True
+654,291,Cashback,2024-09-12,False
+655,535,Free Trial,2024-03-26,True
+656,535,Discount,2025-06-15,True
+657,184,Referral,2025-05-05,False
+658,173,Discount,2024-10-26,False
+659,288,Free Trial,2025-05-17,False
+660,288,Referral,2024-10-17,False
+661,4,Free Trial,2024-02-06,True
+662,4,Cashback,2024-07-23,True
+663,962,Free Trial,2024-03-25,False
+664,962,Free Trial,2024-09-10,False
+665,200,Referral,2024-08-31,False
+666,200,Free Trial,2024-12-27,False
+667,952,Referral,2023-11-03,True
+668,952,Discount,2023-10-10,False
+669,732,Free Trial,2023-07-23,False
+670,400,Cashback,2023-08-24,False
+671,166,Referral,2023-11-20,False
+672,166,Free Trial,2024-11-17,True
+673,831,Referral,2025-04-09,False
+674,213,Cashback,2024-05-03,False
+675,213,Referral,2024-08-22,True
+676,283,Cashback,2023-10-13,True
+677,844,Cashback,2025-02-08,False
+678,844,Referral,2023-09-16,True
+679,160,Discount,2023-08-31,True
+680,160,Free Trial,2024-04-29,True
+681,714,Loyalty Reward,2024-08-27,True
+682,637,Free Trial,2023-11-12,False
+683,637,Cashback,2024-03-23,True
+684,897,Discount,2024-11-03,False
+685,897,Referral,2023-11-29,True
+686,94,Cashback,2023-08-21,True
+687,94,Loyalty Reward,2025-01-05,False
+688,177,Free Trial,2024-06-10,False
+689,82,Discount,2023-12-02,True
+690,444,Referral,2024-02-16,False
+691,444,Cashback,2024-04-09,False
+692,461,Discount,2023-10-01,True
+693,614,Loyalty Reward,2025-01-30,False
+694,9,Loyalty Reward,2024-12-07,True
+695,9,Loyalty Reward,2024-06-10,True
+696,387,Loyalty Reward,2023-12-13,False
+697,524,Referral,2024-02-22,False
+698,524,Cashback,2024-02-24,False
+699,188,Loyalty Reward,2024-05-01,True
+700,188,Free Trial,2023-10-30,False
+701,760,Cashback,2023-10-04,False
+702,760,Referral,2024-11-01,True
+703,41,Loyalty Reward,2025-01-13,True
+704,41,Discount,2025-05-25,True
+705,107,Discount,2023-12-29,False
+706,458,Free Trial,2024-06-29,False
+707,458,Free Trial,2023-09-18,False
+708,89,Cashback,2024-08-08,False
+709,526,Cashback,2024-04-16,True
+710,563,Free Trial,2025-03-12,False
+711,502,Cashback,2024-08-30,True
+712,502,Cashback,2024-01-25,False
+713,236,Discount,2024-03-22,False
+714,236,Cashback,2024-05-22,True
+715,390,Discount,2024-08-17,False
+716,390,Loyalty Reward,2023-10-25,False
+717,968,Loyalty Reward,2023-09-28,False
+718,968,Referral,2024-08-23,True
+719,990,Referral,2023-08-26,True
+720,990,Cashback,2024-10-10,True
+721,741,Free Trial,2024-07-04,False
+722,741,Referral,2024-02-27,True
+723,602,Free Trial,2025-05-08,False
+724,602,Referral,2025-01-26,True
+725,982,Loyalty Reward,2024-08-14,True
+726,815,Free Trial,2024-01-15,False
+727,68,Loyalty Reward,2024-12-05,False
+728,68,Free Trial,2025-03-04,True
+729,263,Discount,2024-03-26,True
+730,263,Cashback,2025-01-01,True
+731,809,Free Trial,2024-10-12,False
+732,382,Referral,2024-02-13,True
+733,382,Referral,2025-06-01,False
+734,529,Free Trial,2024-11-14,True
+735,264,Referral,2024-06-22,True
+736,278,Referral,2024-06-13,False
+737,278,Free Trial,2025-03-05,False
+738,420,Free Trial,2023-08-23,True
+739,420,Cashback,2024-02-01,False
+740,131,Cashback,2023-08-20,True
+741,422,Referral,2023-09-26,False
+742,112,Loyalty Reward,2024-02-02,True
+743,112,Referral,2024-02-02,False
+744,710,Referral,2024-02-15,True
+745,862,Referral,2024-03-08,True
+746,862,Referral,2024-06-28,True
+747,133,Free Trial,2024-11-16,True
+748,133,Free Trial,2023-08-16,True
+749,644,Referral,2024-02-23,False
+750,644,Loyalty Reward,2024-03-10,True
+751,136,Loyalty Reward,2025-03-14,True
+752,136,Cashback,2023-10-07,True
+753,547,Cashback,2025-06-04,True
+754,876,Loyalty Reward,2023-10-20,False
+755,876,Loyalty Reward,2024-09-21,True
+756,396,Referral,2024-07-07,False
+757,396,Referral,2024-12-13,True
+758,980,Loyalty Reward,2023-11-11,False
+759,520,Discount,2024-09-01,True
+760,95,Discount,2025-03-12,False
+761,93,Referral,2024-05-21,False
+762,93,Loyalty Reward,2024-03-10,False
+763,858,Discount,2024-04-27,False
+764,338,Discount,2025-04-01,False
+765,492,Free Trial,2023-12-31,False
+766,492,Discount,2023-11-19,False
+767,887,Referral,2023-09-08,False
+768,97,Free Trial,2024-07-22,False
+769,613,Free Trial,2025-04-07,True
+770,933,Free Trial,2025-01-25,False
+771,124,Free Trial,2025-06-09,True
+772,124,Discount,2025-02-05,True
+773,21,Referral,2024-07-23,False
+774,21,Free Trial,2024-02-19,True
+775,405,Discount,2024-04-14,True
+776,405,Free Trial,2025-01-01,False
+777,421,Discount,2023-12-10,False
+778,266,Referral,2025-05-01,False
+779,430,Free Trial,2024-10-09,False
+780,465,Referral,2024-01-12,False
+781,465,Referral,2025-02-02,True
+782,812,Cashback,2023-08-10,False
+783,246,Loyalty Reward,2024-12-02,False
+784,246,Discount,2023-07-08,False
+785,489,Referral,2023-10-11,True
+786,489,Cashback,2024-06-16,True
+787,169,Loyalty Reward,2024-12-25,True
+788,542,Free Trial,2024-06-07,False
+789,415,Discount,2024-09-23,True
+790,24,Loyalty Reward,2024-03-07,True
+791,24,Referral,2025-03-03,True
+792,58,Referral,2023-10-14,True
+793,101,Referral,2025-04-30,True
+794,28,Referral,2023-06-28,False
+795,544,Referral,2025-03-09,True
+796,457,Referral,2025-01-31,False
+797,224,Loyalty Reward,2024-06-30,True
+798,224,Discount,2025-03-29,True
+799,231,Discount,2024-09-18,True
+800,619,Loyalty Reward,2024-09-15,False
+801,619,Free Trial,2025-05-12,True
+802,629,Cashback,2024-10-07,False
+803,629,Free Trial,2023-11-30,True
+804,653,Cashback,2023-10-18,False
+805,69,Referral,2025-03-07,True
+806,69,Loyalty Reward,2024-09-27,True
+807,913,Cashback,2023-12-23,False
+808,913,Discount,2024-05-19,False
+809,120,Free Trial,2025-05-23,True
+810,262,Loyalty Reward,2023-11-27,True
+811,262,Cashback,2024-02-06,True
+812,251,Cashback,2024-06-28,False
+813,251,Referral,2024-10-02,True
+814,523,Referral,2023-09-08,False
+815,523,Cashback,2024-02-19,True
+816,920,Cashback,2024-06-26,True
+817,920,Cashback,2025-03-13,True
+818,991,Referral,2024-01-31,False
+819,711,Loyalty Reward,2024-03-23,False
+820,711,Loyalty Reward,2023-08-04,True
+821,168,Loyalty Reward,2023-09-02,True
+822,61,Cashback,2025-06-10,True
+823,61,Free Trial,2024-04-23,False
+824,227,Cashback,2025-03-03,False
+825,227,Cashback,2025-03-30,False
+826,873,Free Trial,2023-10-22,True
+827,366,Cashback,2023-11-10,False
+828,366,Referral,2025-02-24,True
+829,438,Referral,2024-02-26,True
+830,438,Free Trial,2024-02-18,True
+831,267,Discount,2024-04-26,True
+832,454,Loyalty Reward,2023-10-23,False
+833,70,Free Trial,2025-04-23,False
+834,388,Loyalty Reward,2025-05-29,False
+835,946,Loyalty Reward,2025-02-23,False
+836,564,Discount,2024-03-02,False
+837,453,Cashback,2023-12-27,False
+838,44,Cashback,2024-04-06,True
+839,428,Loyalty Reward,2024-11-26,True
+840,428,Cashback,2023-10-28,True
+841,891,Cashback,2024-10-24,False
+842,36,Cashback,2024-08-16,True
+843,36,Loyalty Reward,2023-06-29,False
+844,574,Loyalty Reward,2025-02-27,True
+845,574,Referral,2023-08-26,False
+846,156,Free Trial,2024-05-17,True
+847,156,Cashback,2024-10-26,True
+848,471,Cashback,2023-12-11,False
+849,449,Free Trial,2024-04-03,True
+850,73,Free Trial,2025-04-24,False
+851,73,Cashback,2025-04-28,False
+852,371,Referral,2025-02-01,False
+853,409,Free Trial,2025-05-03,True
+854,119,Discount,2025-02-25,False
+855,835,Discount,2024-01-02,False
+856,356,Loyalty Reward,2024-11-08,True
+857,356,Loyalty Reward,2024-12-04,False
+858,650,Free Trial,2023-08-03,False
+859,301,Loyalty Reward,2023-08-03,False
+860,301,Cashback,2025-01-25,False
+861,546,Free Trial,2025-05-04,True
+862,794,Referral,2024-07-15,False
+863,794,Cashback,2025-06-16,True
+864,336,Cashback,2023-08-03,False
+865,336,Referral,2024-08-22,True
+866,514,Free Trial,2025-01-12,False
+867,759,Cashback,2023-09-14,False
+868,310,Referral,2023-11-12,True
+869,310,Discount,2023-10-02,True
+870,948,Cashback,2024-01-02,True
+871,948,Cashback,2025-01-04,True
+872,445,Referral,2023-08-28,False
+873,235,Free Trial,2023-11-03,False
+874,632,Referral,2025-04-24,False
+875,766,Referral,2023-10-25,True
+876,774,Free Trial,2024-10-01,True
+877,774,Cashback,2024-06-17,False
+878,412,Loyalty Reward,2024-04-13,True
+879,339,Free Trial,2024-04-01,False
+880,395,Referral,2023-07-27,True
+881,247,Referral,2024-09-12,True
+882,247,Cashback,2024-05-10,True
+883,802,Discount,2024-10-24,False
+884,646,Loyalty Reward,2023-08-28,False
+885,646,Cashback,2024-12-13,False
+886,701,Loyalty Reward,2025-04-20,False
+887,498,Free Trial,2024-01-10,False
+888,498,Discount,2023-11-14,False
+889,797,Cashback,2024-10-31,False
+890,797,Referral,2024-05-09,False
+891,757,Referral,2024-03-15,True
+892,413,Discount,2025-02-03,True
+893,413,Discount,2023-10-07,True
+894,678,Free Trial,2024-03-01,True
+895,678,Free Trial,2025-05-14,True
+896,600,Referral,2025-01-31,False
+897,45,Cashback,2023-08-15,True
+898,45,Cashback,2025-04-18,False
+899,554,Loyalty Reward,2024-11-17,False
+900,121,Referral,2025-03-30,True
+901,337,Free Trial,2024-08-03,False
+902,243,Cashback,2024-05-13,True
+903,243,Free Trial,2024-09-16,False
+904,977,Cashback,2024-10-26,True
+905,977,Free Trial,2024-12-09,True
+906,52,Discount,2024-08-01,True
+907,52,Referral,2024-08-13,True
+908,66,Cashback,2024-11-22,True
+909,66,Free Trial,2023-11-03,False
+910,715,Loyalty Reward,2025-02-02,True
+911,735,Free Trial,2024-09-02,False
+912,735,Cashback,2023-10-29,True
+913,507,Cashback,2025-02-11,True
+914,539,Referral,2025-03-18,True
+915,539,Free Trial,2024-10-09,False
+916,800,Free Trial,2023-09-10,False
+917,800,Referral,2024-01-19,True
+918,967,Free Trial,2024-08-16,False
+919,967,Cashback,2025-04-22,True
+920,48,Referral,2024-01-10,True
+921,649,Cashback,2023-09-17,False
+922,271,Loyalty Reward,2023-09-15,False
+923,790,Free Trial,2023-07-01,False
+924,979,Discount,2023-08-27,True
+925,979,Discount,2025-02-12,False
+926,690,Cashback,2025-05-29,True
+927,690,Cashback,2024-11-14,True
+928,180,Cashback,2024-04-12,True
+929,180,Cashback,2024-08-21,True
+930,944,Cashback,2023-11-12,False
+931,944,Free Trial,2023-09-23,False
+932,785,Free Trial,2025-03-12,False
+933,525,Referral,2024-04-23,False
+934,953,Discount,2023-10-17,True
+935,874,Referral,2025-04-19,True
+936,874,Cashback,2025-02-21,True
+937,549,Loyalty Reward,2025-02-15,False
+938,549,Free Trial,2023-07-19,True
+939,917,Cashback,2024-05-21,True
+940,917,Free Trial,2025-04-07,True
+941,786,Discount,2023-10-16,True
+942,786,Discount,2024-09-21,True
+943,5,Cashback,2024-06-30,True
+944,5,Cashback,2024-02-03,True
+945,606,Cashback,2024-02-06,True
+946,606,Free Trial,2024-09-20,False
+947,59,Free Trial,2024-06-28,False
+948,59,Cashback,2025-05-29,True
+949,668,Cashback,2024-04-07,False
+950,886,Referral,2024-03-19,False
+951,793,Cashback,2024-01-30,True
+952,793,Free Trial,2023-08-20,True
+953,576,Discount,2024-07-27,True
+954,576,Discount,2024-05-30,True
+955,924,Referral,2025-05-13,True
+956,924,Free Trial,2024-09-07,False
+957,930,Referral,2023-12-24,False
+958,930,Free Trial,2024-04-03,False
+959,296,Cashback,2025-04-05,True
+960,665,Cashback,2024-02-20,True
+961,167,Loyalty Reward,2024-09-12,False
+962,167,Free Trial,2023-09-09,False
+963,821,Loyalty Reward,2024-04-26,True
+964,343,Cashback,2025-05-26,True
+965,894,Referral,2024-11-15,False
+966,894,Free Trial,2024-08-21,True
+967,656,Free Trial,2025-06-24,True
+968,677,Free Trial,2025-06-02,True
+969,677,Cashback,2023-11-13,True
+970,475,Free Trial,2023-10-14,True
+971,475,Referral,2023-09-18,False
+972,923,Free Trial,2024-10-17,True
+973,923,Referral,2025-04-09,False
+974,508,Cashback,2023-09-06,True
+975,508,Cashback,2023-08-11,False
+976,915,Loyalty Reward,2024-02-12,True
+977,334,Cashback,2023-10-05,False
+978,334,Referral,2023-09-09,False
+979,318,Cashback,2024-04-16,True
+980,318,Referral,2025-03-29,False
+981,667,Discount,2025-01-08,False
+982,456,Referral,2025-04-05,False
+983,456,Referral,2023-12-16,False
+984,379,Loyalty Reward,2023-11-07,False
+985,911,Discount,2023-12-27,False
+986,898,Loyalty Reward,2024-11-30,True
+987,898,Free Trial,2023-07-06,True
