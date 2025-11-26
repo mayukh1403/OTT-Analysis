@@ -58,7 +58,7 @@ Explore all queries [here](https://github.com/DivyeB/User-Login-Behavior-OTT/tre
 Built using Looker Studio:
 
 - [Live Dashboard](https://lookerstudio.google.com/u/0/reporting/b142085d-ce40-470e-82ea-d555ca43d3f4/page/p_rc75fgeutd)
-- [PDF Summary Report](https://github.com/DivyeB/User-Login-Behavior-OTT/blob/main/User%20Activity%20-%20Visualization.pdf)
+- [PDF Summary Report](https://github.com/mayukh1403/OTT-Analysis/blob/main/OTT_User_Activity_-_Visualization.pdf)
 
 Included:
 - DAU & MAU Trends
